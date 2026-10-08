@@ -1,6 +1,6 @@
 {
   "dealership": "Courtenay Mazda",
-  "generated_at": "2026-10-04T16:14:08",
+  "generated_at": "2026-10-08T14:34:43",
   "vehicle_count": 174,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2004 Toyota Camry SLEin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/93e0fd880cff.html",
       "source_url": "https://www.courtenaymazda.com/used/2004-Toyota-Camry-id14419269.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2004-Toyota-Camry-id14419269.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,8 +19,10 @@
       "odometer_km": 124977,
       "year": 2004,
       "make": "Toyota",
-      "model": "Camry SLEin Courtenay",
-      "condition": "used"
+      "model": "Camry",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2004 Toyota Camry ",
@@ -35,7 +38,9 @@
       "year": 2004,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2009 Toyota Matrix AWDin Courtenay",
@@ -51,7 +56,9 @@
       "year": 2009,
       "make": "Toyota",
       "model": "Matrix AWDin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2009 Toyota Matrix ",
@@ -67,7 +74,9 @@
       "year": 2009,
       "make": "Toyota",
       "model": "Matrix",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda5 ",
@@ -83,7 +92,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda5 ",
@@ -99,7 +110,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda5 ",
@@ -114,7 +127,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda5 ",
@@ -130,7 +145,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda5 ",
@@ -146,7 +163,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda Mazda5 ",
@@ -161,7 +180,9 @@
       "year": 2010,
       "make": "Mazda",
       "model": "Mazda5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2010 Mazda5 GTin Courtenay",
@@ -177,12 +198,15 @@
       "year": 2010,
       "make": "Mazda5",
       "model": "GTin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Golf Wagon Comfortlinein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/41d5bcb4d16e.html",
       "source_url": "https://www.courtenaymazda.com/used/2011-Volkswagen-Golf_Wagon-id14236499.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2011-Volkswagen-Golf_Wagon-id14236499.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -192,8 +216,10 @@
       "odometer_km": 176356,
       "year": 2011,
       "make": "Volkswagen",
-      "model": "Golf Wagon Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Golf",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Golf Wagon ",
@@ -209,12 +235,15 @@
       "year": 2011,
       "make": "Volkswagen",
       "model": "Golf Wagon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2012 Dodge Journey SXTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SXTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/548af46b44cb.html",
       "source_url": "https://www.courtenaymazda.com/used/2012-Dodge-Journey-id14313543.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2012-Dodge-Journey-id14313543.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -224,8 +253,10 @@
       "odometer_km": 145928,
       "year": 2012,
       "make": "Dodge",
-      "model": "Journey SXTin Courtenay",
-      "condition": "used"
+      "model": "Journey",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2012 Dodge Journey ",
@@ -241,12 +272,15 @@
       "year": 2012,
       "make": "Dodge",
       "model": "Journey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2012 Jeep Compass Sportin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sportin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/b2b2ed991573.html",
       "source_url": "https://www.courtenaymazda.com/used/2012-Jeep-Compass-id14333598.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2012-Jeep-Compass-id14333598.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -256,8 +290,10 @@
       "odometer_km": 132165,
       "year": 2012,
       "make": "Jeep",
-      "model": "Compass Sportin Courtenay",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2012 Jeep Compass ",
@@ -273,12 +309,15 @@
       "year": 2012,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Dodge Journey Value Pkgin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Value Pkgin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/994b618ab88b.html",
       "source_url": "https://www.courtenaymazda.com/used/2013-Dodge-Journey-id14128725.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2013-Dodge-Journey-id14128725.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -288,8 +327,10 @@
       "odometer_km": 141254,
       "year": 2013,
       "make": "Dodge",
-      "model": "Journey Value Pkgin Courtenay",
-      "condition": "used"
+      "model": "Journey",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Dodge Journey ",
@@ -305,12 +346,15 @@
       "year": 2013,
       "make": "Dodge",
       "model": "Journey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Kia Forte Koup SXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Koup SXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/c803778dbf60.html",
       "source_url": "https://www.courtenaymazda.com/used/2013-Kia-Forte_Koup-id14279049.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2013-Kia-Forte_Koup-id14279049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -320,14 +364,17 @@
       "odometer_km": 197942,
       "year": 2013,
       "make": "Kia",
-      "model": "Forte Koup SXin Courtenay",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Kia Forte Koup ",
       "vin": "KNAFW6A37D5731793",
       "stock": 14279049,
       "color": "{$COLOREX}",
+      "trim": "Koup",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/48d5b766bb5c.html",
       "source_url": "https://www.courtenaymazda.com/used/2013-Kia-Forte_Koup.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2013-Kia-Forte_Koup.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -336,13 +383,16 @@
       "price_currency": "CAD",
       "year": 2013,
       "make": "Kia",
-      "model": "Forte Koup",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Sierra 1500 SLEin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/168ebe3e6dca.html",
       "source_url": "https://www.courtenaymazda.com/used/2015-GMC-Sierra_1500-id14279051.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2015-GMC-Sierra_1500-id14279051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -352,8 +402,10 @@
       "odometer_km": 180135,
       "year": 2015,
       "make": "GMC",
-      "model": "Sierra 1500 SLEin Courtenay",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Sierra 1500 ",
@@ -369,7 +421,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Sierra 1500 ",
@@ -385,7 +439,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Lincoln MKC Basein Courtenay",
@@ -401,7 +457,9 @@
       "year": 2015,
       "make": "Lincoln",
       "model": "MKC Basein Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Lincoln MKC ",
@@ -417,7 +475,9 @@
       "year": 2015,
       "make": "Lincoln",
       "model": "MKC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Lincoln MKC ",
@@ -433,12 +493,15 @@
       "year": 2015,
       "make": "Lincoln",
       "model": "MKC",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Micra SVin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/2659cf607176.html",
       "source_url": "https://www.courtenaymazda.com/used/2015-Nissan-Micra-id13990451.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2015-Nissan-Micra-id13990451.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -448,8 +511,10 @@
       "odometer_km": 145557,
       "year": 2015,
       "make": "Nissan",
-      "model": "Micra SVin Courtenay",
-      "condition": "used"
+      "model": "Micra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Micra ",
@@ -465,12 +530,15 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Forester I Conveniencein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "I Conveniencein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/6929c1cb8cb5.html",
       "source_url": "https://www.courtenaymazda.com/used/2016-Subaru-Forester-id13862408.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2016-Subaru-Forester-id13862408.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -480,8 +548,10 @@
       "odometer_km": 219890,
       "year": 2016,
       "make": "Subaru",
-      "model": "Forester I Conveniencein Courtenay",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Forester ",
@@ -497,7 +567,9 @@
       "year": 2016,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Forester ",
@@ -513,12 +585,15 @@
       "year": 2016,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Equinox LSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/7f27a7a8f755.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Chevrolet-Equinox-id13958684.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Chevrolet-Equinox-id13958684.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -528,8 +603,10 @@
       "odometer_km": 153753,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Equinox LSin Courtenay",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Equinox ",
@@ -545,7 +622,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Equinox ",
@@ -561,12 +640,15 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape SEin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/4237be9422eb.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Ford-Escape-id14327242.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Ford-Escape-id14327242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -576,8 +658,10 @@
       "odometer_km": 118824,
       "year": 2017,
       "make": "Ford",
-      "model": "Escape SEin Courtenay",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -593,7 +677,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -609,12 +695,15 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport Ultimatein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Ultimatein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/bb9c193dc0df.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_Sport-id14297458.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_Sport-id14297458.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -624,14 +713,17 @@
       "odometer_km": 99051,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Ultimatein Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA5HG496460",
       "stock": 14297458,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/eca2c42e6cf1.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -640,13 +732,16 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe XL Limitedin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XL Limitedin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/bcbce5740b75.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_XL-id14438032.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_XL-id14438032.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -656,14 +751,17 @@
       "odometer_km": 114196,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe XL Limitedin Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe XL ",
       "vin": "KM8SNDHF6HU181390",
       "stock": 14438032,
       "color": "{$COLOREX}",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/6ac383f84549.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_XL.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -672,14 +770,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe XL",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA5HG496460",
       "stock": 14297458,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/eca2c42e6cf1.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -688,14 +789,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe XL ",
       "vin": "KM8SNDHF6HU181390",
       "stock": 14438032,
       "color": "{$COLOREX}",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/6ac383f84549.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_XL.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Hyundai-Santa_Fe_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -704,13 +808,16 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe XL",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler Saharain Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Saharain Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/6849c04acf2f.html",
       "source_url": "https://www.courtenaymazda.com/used/2017-Jeep-Wrangler-id14297455.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2017-Jeep-Wrangler-id14297455.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -720,8 +827,10 @@
       "odometer_km": 89537,
       "year": 2017,
       "make": "Jeep",
-      "model": "Wrangler Saharain Courtenay",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -737,7 +846,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -753,7 +864,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda Mazda3 ",
@@ -769,7 +882,9 @@
       "year": 2017,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda Mazda3 ",
@@ -785,7 +900,9 @@
       "year": 2017,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda3 GXin Courtenay",
@@ -801,12 +918,15 @@
       "year": 2017,
       "make": "Mazda3",
       "model": "GXin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport Basein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Basein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/8d0e1b48cce8.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Hyundai-Santa_Fe_Sport-id14279052.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Hyundai-Santa_Fe_Sport-id14279052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -816,14 +936,17 @@
       "odometer_km": 179487,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Basein Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport ",
       "vin": "5XYZTDLB1JG557059",
       "stock": 14279052,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/5d7c55f7e66e.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -832,14 +955,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport ",
       "vin": "5XYZTDLB1JG557059",
       "stock": 14279052,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/5d7c55f7e66e.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -848,13 +974,16 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "new"
+      "model": "Santa Fe",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Compass Trailhawkin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trailhawkin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/d1d3ac6cc09a.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Jeep-Compass-id14432095.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Jeep-Compass-id14432095.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -864,8 +993,10 @@
       "odometer_km": 105511,
       "year": 2018,
       "make": "Jeep",
-      "model": "Compass Trailhawkin Courtenay",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Compass ",
@@ -881,12 +1012,15 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage LXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/1f3738dd8ab2.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Kia-Sportage-id14247868.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Kia-Sportage-id14247868.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -896,13 +1030,16 @@
       "odometer_km": 162453,
       "year": 2018,
       "make": "Kia",
-      "model": "Sportage LXin Courtenay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage LXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/66f72c487245.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Kia-Sportage-id14327238.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Kia-Sportage-id14327238.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -912,8 +1049,10 @@
       "odometer_km": 41632,
       "year": 2018,
       "make": "Kia",
-      "model": "Sportage LXin Courtenay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage ",
@@ -929,7 +1068,9 @@
       "year": 2018,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage ",
@@ -945,12 +1086,15 @@
       "year": 2018,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan Comfortlinein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/541c6307eab6.html",
       "source_url": "https://www.courtenaymazda.com/used/2018-Volkswagen-Tiguan-id13337799.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2018-Volkswagen-Tiguan-id13337799.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -960,8 +1104,10 @@
       "odometer_km": 123298,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan ",
@@ -977,7 +1123,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan ",
@@ -993,12 +1141,15 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Impala LTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/48441f5c2b63.html",
       "source_url": "https://www.courtenaymazda.com/used/2019-Chevrolet-Impala-id13362716.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2019-Chevrolet-Impala-id13362716.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1008,8 +1159,10 @@
       "odometer_km": 155978,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Impala LTin Courtenay",
-      "condition": "used"
+      "model": "Impala",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Impala ",
@@ -1025,12 +1178,15 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Impala",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass Altitudein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Altitudein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/fa736d080511.html",
       "source_url": "https://www.courtenaymazda.com/used/2019-Jeep-Compass-id14364725.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2019-Jeep-Compass-id14364725.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1040,8 +1196,10 @@
       "odometer_km": 106853,
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass Altitudein Courtenay",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -1057,7 +1215,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -1073,12 +1233,15 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sorento Ex 2.4in Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Ex 2.4in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/bdf7f34e8ba9.html",
       "source_url": "https://www.courtenaymazda.com/used/2019-Kia-Sorento-id14236491.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2019-Kia-Sorento-id14236491.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1088,8 +1251,10 @@
       "odometer_km": 142710,
       "year": 2019,
       "make": "Kia",
-      "model": "Sorento Ex 2.4in Courtenay",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sorento ",
@@ -1105,12 +1270,15 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage LXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/5afef36ba7f9.html",
       "source_url": "https://www.courtenaymazda.com/used/2019-Kia-Sportage-id14297457.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2019-Kia-Sportage-id14297457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1120,8 +1288,10 @@
       "odometer_km": 51360,
       "year": 2019,
       "make": "Kia",
-      "model": "Sportage LXin Courtenay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage ",
@@ -1137,7 +1307,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage ",
@@ -1153,12 +1325,15 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester Limitedin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Limitedin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/8e2bb2b7fd04.html",
       "source_url": "https://www.courtenaymazda.com/used/2019-Subaru-Forester-id14255273.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2019-Subaru-Forester-id14255273.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1168,8 +1343,10 @@
       "odometer_km": 74149,
       "year": 2019,
       "make": "Subaru",
-      "model": "Forester Limitedin Courtenay",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester ",
@@ -1185,7 +1362,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester ",
@@ -1201,12 +1380,15 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT Preferredin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GT Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/e08ca2567ed4.html",
       "source_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT-id14364728.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT-id14364728.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1216,14 +1398,17 @@
       "odometer_km": 45345,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT Preferredin Courtenay",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT ",
       "vin": "KMHH35LE5LU135014",
       "stock": 14364728,
       "color": "{$COLOREX}",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/7c914729dc09.html",
       "source_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1232,14 +1417,17 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT ",
       "vin": "KMHH35LE5LU135014",
       "stock": 14364728,
       "color": "{$COLOREX}",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/7c914729dc09.html",
       "source_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2020-Hyundai-Elantra_GT.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1248,8 +1436,10 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Yukon ",
@@ -1265,7 +1455,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Yukon ",
@@ -1281,12 +1473,15 @@
       "year": 2021,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain SLEin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/87255bb9e85d.html",
       "source_url": "https://www.courtenaymazda.com/used/2022-GMC-Terrain-id14128724.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2022-GMC-Terrain-id14128724.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1296,8 +1491,10 @@
       "odometer_km": 27646,
       "year": 2022,
       "make": "GMC",
-      "model": "Terrain SLEin Courtenay",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain ",
@@ -1313,7 +1510,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain ",
@@ -1329,7 +1528,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra ",
@@ -1345,7 +1546,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1361,7 +1564,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1377,12 +1582,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR SEin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/69d143d3aa8e.html",
       "source_url": "https://www.courtenaymazda.com/used/2024-Mitsubishi-RVR-id14140380.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2024-Mitsubishi-RVR-id14140380.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1392,8 +1600,10 @@
       "odometer_km": 58436,
       "year": 2024,
       "make": "Mitsubishi",
-      "model": "RVR SEin Courtenay",
-      "condition": "used"
+      "model": "RVR",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -1409,7 +1619,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -1425,7 +1637,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -1441,12 +1655,15 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Platinumin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Platinumin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/3df2de14ad51.html",
       "source_url": "https://www.courtenaymazda.com/used/2025-Ford-Escape-id14279045.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2025-Ford-Escape-id14279045.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1456,8 +1673,10 @@
       "odometer_km": 69987,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Platinumin Courtenay",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -1473,7 +1692,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1489,7 +1710,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -1505,7 +1728,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1521,12 +1746,15 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona Preferredin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/909f266e08e3.html",
       "source_url": "https://www.courtenaymazda.com/used/2025-Hyundai-Kona-id14419268.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2025-Hyundai-Kona-id14419268.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1536,8 +1764,10 @@
       "odometer_km": 35592,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona Preferredin Courtenay",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -1553,7 +1783,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -1569,12 +1801,15 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/c3c9b2f57aa1.html",
       "source_url": "https://www.courtenaymazda.com/used/2025-Mazda-CX_5-id14310430.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2025-Mazda-CX_5-id14310430.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1584,8 +1819,10 @@
       "odometer_km": 44824,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1601,7 +1838,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -1617,7 +1856,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -1633,12 +1874,15 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue Midnight Editionin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Midnight Editionin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/4e0e8b0ad8e0.html",
       "source_url": "https://www.courtenaymazda.com/used/2025-Nissan-Rogue-id13916652.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2025-Nissan-Rogue-id13916652.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1648,8 +1892,10 @@
       "odometer_km": 41509,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue Midnight Editionin Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1665,7 +1911,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1681,7 +1929,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -1697,7 +1947,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -1713,12 +1965,15 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/7717088afe9f.html",
       "source_url": "https://www.courtenaymazda.com/used/2025-Volkswagen-Taos-id14279054.html",
       "dealer_url": "https://www.courtenaymazda.com/used/2025-Volkswagen-Taos-id14279054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1728,8 +1983,10 @@
       "odometer_km": 29186,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1745,7 +2002,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1761,7 +2020,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 ",
@@ -1777,7 +2038,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 ",
@@ -1793,12 +2056,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEVin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "MHEVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/190e07fa070a.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_70_MHEV.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_70_MHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1807,8 +2073,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEVin Courtenay",
-      "condition": "used"
+      "model": "CX-70",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV ",
@@ -1824,7 +2092,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV ",
@@ -1840,12 +2110,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEVin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/5575ece55940.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_90_PHEV.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_90_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1854,8 +2127,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEVin Courtenay",
-      "condition": "used"
+      "model": "CX-90",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5in Courtenay",
@@ -1870,12 +2145,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "MX-5in Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5 RFin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "RFin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/fdfba5f5d2d8.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-MX_5_RF.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-MX_5_RF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1884,8 +2162,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "MX-5 RFin Courtenay",
-      "condition": "used"
+      "model": "MX-5",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 ",
@@ -1901,13 +2181,16 @@
       "year": 2026,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport ",
       "vin": "JM1BPAKL9T1875559",
       "stock": 13622409,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/afe19d49514c.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-Mazda3_Sport.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-Mazda3_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1916,8 +2199,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport",
-      "condition": "used"
+      "model": "Mazda3",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 ",
@@ -1933,7 +2218,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 ",
@@ -1949,12 +2236,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEVin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "MHEVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/190e07fa070a.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_70_MHEV.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_70_MHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1963,8 +2253,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEVin Courtenay",
-      "condition": "new"
+      "model": "CX-70",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV ",
@@ -1980,7 +2272,9 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV ",
@@ -1996,12 +2290,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEVin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "PHEVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/5575ece55940.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_90_PHEV.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-CX_90_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2010,8 +2307,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEVin Courtenay",
-      "condition": "new"
+      "model": "CX-90",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5in Courtenay",
@@ -2026,12 +2325,15 @@
       "year": 2026,
       "make": "Mazda",
       "model": "MX-5in Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda MX-5 RFin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "RFin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/fdfba5f5d2d8.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-MX_5_RF.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-MX_5_RF.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2040,8 +2342,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "MX-5 RFin Courtenay",
-      "condition": "new"
+      "model": "MX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 ",
@@ -2057,13 +2361,16 @@
       "year": 2026,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport ",
       "vin": "JM1BPAKL9T1875559",
       "stock": 13622409,
       "color": "{$COLOREX}",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/afe19d49514c.html",
       "source_url": "https://www.courtenaymazda.com/new/2026-Mazda-Mazda3_Sport.html",
       "dealer_url": "https://www.courtenaymazda.com/new/2026-Mazda-Mazda3_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2072,13 +2379,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/905287f4586b.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13253977.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13253977.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2087,13 +2397,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/22f81ea7d7da.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13770445.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13770445.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2102,13 +2415,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 Gt Turboin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt Turboin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/7b0d67b93052.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13810541.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13810541.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2117,13 +2433,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 Gt Turboin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/d343cb0cb3df.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13810547.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13810547.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2132,13 +2451,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/bd60608b3284.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13904051.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id13904051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2147,13 +2469,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/854c66b0fd53.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id14005272.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id14005272.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2162,13 +2487,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/cd6ae68353f3.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id14310425.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_30-id14310425.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2177,13 +2505,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GXin Courtenay",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/91902105a17c.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13628799.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13628799.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2192,13 +2523,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/22f42e838fcb.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13628802.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13628802.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2207,13 +2541,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/2aa5fdb28317.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13628802.html?show_video=1",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13628802.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2222,13 +2559,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/b9b1a1fc42bb.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13717672.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13717672.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2237,13 +2577,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/998ac07e9f16.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13717672.html?show_video=1",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13717672.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2252,13 +2595,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/89b2085958d8.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13757720.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13757720.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2267,13 +2613,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/8009fa7c9686.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13757724.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13757724.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2282,13 +2631,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/d3a68a18fe51.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13757724.html?show_video=1",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13757724.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2297,13 +2649,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/565abbdb6af1.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13810549.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13810549.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2312,13 +2667,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/a122a884890c.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13810549.html?show_video=1",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13810549.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2327,13 +2685,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/ac6e6bd5e9ac.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13822641.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13822641.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2342,13 +2703,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/35ca5caa5b31.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13822641.html?show_video=1",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13822641.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2357,13 +2721,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/9b9cf4d9a16d.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13952911.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id13952911.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2372,13 +2739,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GXin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/a722022c8507.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14089014.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14089014.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2387,13 +2757,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/0e1671b3ac88.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14089015.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14089015.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2402,13 +2775,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/7c263da4f32c.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14089017.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14089017.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2417,13 +2793,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/b6939908e006.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14160456.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14160456.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2432,13 +2811,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/231061d1a84b.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14160458.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14160458.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2447,13 +2829,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/6e6394797761.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14215415.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14215415.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2462,13 +2847,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GXin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/bf252c02d58b.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14247869.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14247869.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2477,13 +2865,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GXin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/d069fb39182b.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14247870.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14247870.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2492,13 +2883,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/32324ee5ced8.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14247870.html?show_video=1",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14247870.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2507,13 +2901,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GTin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GXin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/f65c365640f4.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14261126.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14261126.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2522,13 +2919,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GXin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/3f2a8ea6f1d5.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14261127.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14261127.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2537,13 +2937,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GSin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/a1453ecc8d62.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14333596.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_5-id14333596.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2552,13 +2955,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GSin Courtenay",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GTin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/120d2bcb621b.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_70_PHEV-id14426359.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_70_PHEV-id14426359.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2567,13 +2973,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GTin Courtenay",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV Gt-Pin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Gt-Pin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/06a9fe3c03be.html",
       "source_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_90_MHEV-id14310428.html",
       "dealer_url": "https://www.courtenaymazda.com/new/inventory/2026-Mazda-CX_90_MHEV-id14310428.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2582,8 +2991,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV Gt-Pin Courtenay",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 GXin Courtenay",
@@ -2598,7 +3009,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "GXin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 GSin Courtenay",
@@ -2613,7 +3026,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "GSin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 GXin Courtenay",
@@ -2628,7 +3043,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "GXin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport GXin Courtenay",
@@ -2643,7 +3060,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport GXin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport GSin Courtenay",
@@ -2658,7 +3077,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport GSin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport GSin Courtenay",
@@ -2673,7 +3094,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport GSin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport GXin Courtenay",
@@ -2688,7 +3111,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport GXin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda3 Sport GXin Courtenay",
@@ -2703,7 +3128,9 @@
       "year": 2026,
       "make": "Mazda3",
       "model": "Sport GXin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2719,7 +3146,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2735,7 +3164,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     }
   ]
 }
