@@ -1,7 +1,7 @@
 {
   "dealership": "Courtenay Mazda",
-  "generated_at": "2026-11-17T07:52:25",
-  "vehicle_count": 123,
+  "generated_at": "2026-11-17T08:21:18",
+  "vehicle_count": 121,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -718,16 +718,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mazda CX-30 GXin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/e1962061ff8e.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 31095.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Mazda CX-30 Gt Turboin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/38f89133430e.html",
       "year": 2026,
@@ -785,26 +775,6 @@
       "model": "CX-5",
       "condition": "new",
       "price": 48395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GSin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/89b2085958d8.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 40745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda CX-5 GSin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/70f22fa5b21a.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 40745.0,
       "price_currency": "CAD"
     },
     {
@@ -868,16 +838,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mazda CX-5 GXin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/9b9cf4d9a16d.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 37745.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Mazda CX-5 GSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/a722022c8507.html",
       "year": 2026,
@@ -914,7 +874,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 40895.0,
+      "price": 38495.0,
       "price_currency": "CAD"
     },
     {
@@ -984,7 +944,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 37745.0,
+      "price": 36045.0,
       "price_currency": "CAD"
     },
     {
@@ -1068,6 +1028,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mazda CX-5 GXin Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/2d67e036eafb.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 37745.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mazda CX-70 PHEV GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/120d2bcb621b.html",
       "year": 2026,
@@ -1098,23 +1068,23 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mazda CX-90 PHEV GTin Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/66693fe649bc.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "price": 62895.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Mazda3 GXin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/8c9e64707e85.html",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/50e8690a6c38.html",
       "year": 2026,
       "make": "Mazda3",
       "model": "GXin Courtenay",
       "condition": "new",
-      "price": 26945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mazda3 Sport GXin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/0f200d912e02.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GXin Courtenay",
-      "condition": "new",
-      "price": 27695.0,
+      "price": 25895.0,
       "price_currency": "CAD"
     },
     {
@@ -1155,6 +1125,16 @@
       "model": "Sport GXin Courtenay",
       "condition": "new",
       "price": 28095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mazda3 Sport GXin Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/00c35f613235.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GXin Courtenay",
+      "condition": "new",
+      "price": 27695.0,
       "price_currency": "CAD"
     },
     {
