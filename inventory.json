@@ -1,7 +1,7 @@
 {
   "dealership": "Courtenay Mazda",
-  "generated_at": "2026-11-18T09:20:03",
-  "vehicle_count": 120,
+  "generated_at": "2026-11-18T09:30:11",
+  "vehicle_count": 119,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -628,23 +628,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mazda CX-30 Gt Turboin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/7b0d67b93052.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "new",
-      "price": 39705.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Mazda CX-30 GTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/new/d343cb0cb3df.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 40495.0,
+      "price": 40245.0,
       "price_currency": "CAD"
     },
     {
@@ -654,7 +644,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 33995.0,
+      "price": 31705.0,
       "price_currency": "CAD"
     },
     {
@@ -674,7 +664,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 31495.0,
+      "price": 29945.0,
       "price_currency": "CAD"
     },
     {
@@ -714,7 +704,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 46995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -824,7 +814,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 40895.0,
+      "price": 38495.0,
       "price_currency": "CAD"
     },
     {
@@ -1024,7 +1014,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 59945.0,
+      "price": 55409.0,
       "price_currency": "CAD"
     },
     {
