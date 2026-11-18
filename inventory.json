@@ -1,7 +1,7 @@
 {
   "dealership": "Courtenay Mazda",
-  "generated_at": "2026-11-18T00:08:49",
-  "vehicle_count": 121,
+  "generated_at": "2026-11-18T09:20:03",
+  "vehicle_count": 120,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -20,10 +20,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford F-150 2011 for salein Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/3590540c60b8.html",
+      "name": "Hyundai Santa Fe 2007 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/f245056f86e4.html",
       "condition": "used",
-      "price": 11799.0,
+      "price": 4897.0,
       "price_currency": "CAD"
     },
     {
@@ -87,6 +87,13 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/adc1bd153ec5.html",
       "condition": "used",
       "price": 10897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2017 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/1a3cf71aa9c5.html",
+      "condition": "used",
+      "price": 11899.0,
       "price_currency": "CAD"
     },
     {
@@ -181,10 +188,24 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Toyota Corolla Cross 2024 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/fc77afd93a83.html",
+      "condition": "used",
+      "price": 29899.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Audi Q3 2025 for salein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/ed442a7e128f.html",
       "condition": "used",
       "price": 32897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X1 2025 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/e39aa99a2b03.html",
+      "condition": "used",
+      "price": 37897.0,
       "price_currency": "CAD"
     },
     {
@@ -263,28 +284,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 5897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2007 Hyundai Santa Fe ",
-      "vin": "5NMSG13E07H018610",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/f245056f86e4.html",
-      "year": 2007,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 5897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Ford F-150 XLin Courtenay",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/1abf1ae10775.html",
-      "year": 2011,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 11799.0,
+      "price": 4897.0,
       "price_currency": "CAD"
     },
     {
@@ -384,18 +384,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 13899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Escape ",
-      "vin": "1FMCU9GD6HUE60696",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/1a3cf71aa9c5.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 13899.0,
+      "price": 11899.0,
       "price_currency": "CAD"
     },
     {
@@ -555,18 +544,7 @@
       "make": "Toyota",
       "model": "Corolla Cross",
       "condition": "used",
-      "price": 30999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Corolla Cross ",
-      "vin": "7MUBAABGXRV095592",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/fc77afd93a83.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "used",
-      "price": 30999.0,
+      "price": 29899.0,
       "price_currency": "CAD"
     },
     {
@@ -576,18 +554,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 33897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW X1 ",
-      "vin": "WBX73EF01S5343564",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/e39aa99a2b03.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used",
-      "price": 39899.0,
+      "price": 32897.0,
       "price_currency": "CAD"
     },
     {
@@ -628,6 +595,16 @@
       "model": "Kicks",
       "condition": "used",
       "price": 20897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Toyota RAV4 LEin Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/a0830fb75c9c.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 32897.0,
       "price_currency": "CAD"
     },
     {
