@@ -1,6 +1,6 @@
 {
   "dealership": "Courtenay Mazda",
-  "generated_at": "2026-11-17T23:59:33",
+  "generated_at": "2026-11-18T00:08:49",
   "vehicle_count": 121,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -647,7 +647,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 37495.0,
+      "price": 37095.0,
       "price_currency": "CAD"
     },
     {
@@ -657,7 +657,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 43445.0,
+      "price": 39705.0,
       "price_currency": "CAD"
     },
     {
@@ -707,7 +707,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 42395.0,
+      "price": 42145.0,
       "price_currency": "CAD"
     },
     {
@@ -727,7 +727,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 46995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
