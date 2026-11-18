@@ -1,10 +1,17 @@
 {
   "dealership": "Courtenay Mazda",
-  "generated_at": "2026-11-17T08:21:18",
+  "generated_at": "2026-11-17T23:59:33",
   "vehicle_count": 121,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Toyota Camry 2004 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/f5664cb60010.html",
+      "condition": "used",
+      "price": 8499.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Acura MDX 2007 for salein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/e8b0fbb82032.html",
@@ -24,6 +31,13 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/3428cb19850e.html",
       "condition": "used",
       "price": 12899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf Wagon 2012 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/b3d5b300690d.html",
+      "condition": "used",
+      "price": 11899.0,
       "price_currency": "CAD"
     },
     {
@@ -48,10 +62,31 @@
       "price_currency": "CAD"
     },
     {
+      "name": "GMC Sierra 1500 2015 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/b6ac3f5dc028.html",
+      "condition": "used",
+      "price": 20699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lincoln MKC 2015 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/d70ac1a63c49.html",
+      "condition": "used",
+      "price": 11897.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Camry Hybrid 2015 for salein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/8b39b3dc8865.html",
       "condition": "used",
       "price": 16897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2017 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/adc1bd153ec5.html",
+      "condition": "used",
+      "price": 10897.0,
       "price_currency": "CAD"
     },
     {
@@ -174,6 +209,13 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Kicks Play 2025 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/a46503858bba.html",
+      "condition": "used",
+      "price": 20897.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota RAV4 2025 for salein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/764823e5b81a.html",
       "condition": "used",
@@ -188,24 +230,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2026 for salein Courtenay",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/cd2982418826.html",
+      "condition": "used",
+      "price": 33897.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2004 Toyota Camry SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/93e0fd880cff.html",
       "year": 2004,
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 8999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2004 Toyota Camry ",
-      "vin": "4T1CA30P54U002930",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/f5664cb60010.html",
-      "year": 2004,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 8999.0,
+      "price": 8499.0,
       "price_currency": "CAD"
     },
     {
@@ -266,18 +304,7 @@
       "make": "Volkswagen",
       "model": "Golf",
       "condition": "used",
-      "price": 12899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Volkswagen Golf Wagon ",
-      "vin": "3VWML7AJ0CM677640",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/b3d5b300690d.html",
-      "year": 2012,
-      "make": "Volkswagen",
-      "model": "Golf Wagon",
-      "condition": "used",
-      "price": 12899.0,
+      "price": 11899.0,
       "price_currency": "CAD"
     },
     {
@@ -317,18 +344,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 21999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 GMC Sierra 1500 ",
-      "vin": "3GTU2UEC2FG245473",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/b6ac3f5dc028.html",
-      "year": 2015,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 21999.0,
+      "price": 20699.0,
       "price_currency": "CAD"
     },
     {
@@ -338,18 +354,7 @@
       "make": "Lincoln",
       "model": "MKC Basein Courtenay",
       "condition": "used",
-      "price": 12797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Lincoln MKC ",
-      "vin": "5LMTJ2AH7FUJ31219",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/d70ac1a63c49.html",
-      "year": 2015,
-      "make": "Lincoln",
-      "model": "MKC",
-      "condition": "used",
-      "price": 12797.0,
+      "price": 11897.0,
       "price_currency": "CAD"
     },
     {
@@ -369,18 +374,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 11497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Chevrolet Equinox ",
-      "vin": "2GNFLEEK7H6338496",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/adc1bd153ec5.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 11497.0,
+      "price": 10897.0,
       "price_currency": "CAD"
     },
     {
@@ -421,7 +415,7 @@
       "make": "Mazda3",
       "model": "GXin Courtenay",
       "condition": "used",
-      "price": 11999.0,
+      "price": 10999.0,
       "price_currency": "CAD"
     },
     {
@@ -451,7 +445,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 11899.0,
+      "price": 10897.0,
       "price_currency": "CAD"
     },
     {
@@ -633,18 +627,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 21897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV0SL491188",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/a46503858bba.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 21897.0,
+      "price": 20897.0,
       "price_currency": "CAD"
     },
     {
@@ -1135,17 +1118,6 @@
       "model": "Sport GXin Courtenay",
       "condition": "new",
       "price": 27695.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVER7RM1TM016429",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-mazda-mirror/used/cd2982418826.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 35897.0,
       "price_currency": "CAD"
     }
   ]
